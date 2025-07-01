@@ -1,5 +1,5 @@
 # usig-coditio-statement
-------------ATM Process-----------------
+#------------ATM Process-----------------
 pin=int(input("enter the 4-digit pin"))
 spin=****
 balance=12000
@@ -15,10 +15,11 @@ else:
     print("Access denaid")
     print("try again")
     print("thank you")
-OUTPUT:
+#OUTPUT:
 enter the 4-digit pin ****
 Access granted
 Enter Amount 2500
 amount withdraw
 available balance 9500
 thank you
+#---------------------------------------------
